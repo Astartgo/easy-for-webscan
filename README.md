@@ -1,9 +1,9 @@
 # easy-for-webscan
-根据WebBatchRequest图形化二次开发，
-1增加了指纹识别模块，可识别大概上千条指纹
-2增加了IP段处理，支持C段和B段处理
-3增加了301处理,
-4增加了去重空节点的功能
+根据WebBatchRequest图形化二次开发  
+1增加了指纹识别模块，可识别大概上千条指纹  
+2增加了IP段处理，支持C段和B段处理  
+3增加了301处理,  
+4增加了去重空节点的功能，可节省内存消耗,推荐勾选此选项  
 
 #实际效果
 <img width="1204" alt="图片" src="https://user-images.githubusercontent.com/86775430/124108013-62a81980-da98-11eb-93b6-bc1c29324ce8.png">
